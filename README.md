@@ -1,7 +1,7 @@
 # THP
 
 This THP projet is a copy of the Google home page.
-The responsive and fonctionnal par of it have been set aside to only keep the visual aspect
+The responsive and fonctionnal part of it have been set aside to only keep the visual aspect
 
 ## Authors
 
